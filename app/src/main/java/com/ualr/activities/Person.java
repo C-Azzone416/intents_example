@@ -63,4 +63,8 @@ public class Person implements Parcelable {
         this.lastName = in.readString();
     }
 
+    public String getFullName() {
+        return this.firstName + " " + this.lastName;
+    }
+
 }

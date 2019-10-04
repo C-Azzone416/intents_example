@@ -4,5 +4,4 @@
         Activity 01 sending...\nRequestCode: %d\nString1: Hello Android\nmDouble1: 3.14\nmyIntArray: {1, 2, 3}\nPerson: Ivan Rodriguez-Conde
     </string>
     <string name="call_activity2">Call\tActivity2</string>
-    <string name="callback_activity1">CallBack Activity1</string>
 </resources>

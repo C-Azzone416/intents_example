@@ -16,23 +16,6 @@
             android:textColor="@color/colorAccent"
             android:text="Data Received from Activity1 ..."
             android:typeface="monospace" />
-
-        <Button
-            android:id="@+id/btnCallActivity1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:padding="6sp"
-            android:onClick="onButtonClick"
-            android:text="@string/callback_activity1" />
-
-        <TextView
-            android:id="@+id/spyBox"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="7dip"
-            android:background="@color/colorAccentDark"
-            android:text="(SPY) Data Received from Activity1 ..."
-            android:typeface="monospace" />
     </LinearLayout>
 
 </ScrollView>
