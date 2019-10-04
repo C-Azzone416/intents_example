@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Activities</string>
     <string name="open_contacts">open contacts</string>
+    <string name="textTopPlaceholder">
+        Activity 01 sending...\nRequestCode: %d\nString1: Hello Android\nmDouble1: 3.14\nmyIntArray: {1, 2, 3}\nPerson: Ivan Rodriguez-Conde
+    </string>
 </resources>
