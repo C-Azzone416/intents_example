@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:onClick="onButtonClick"
             android:padding="15dp"
-            android:text="Call	Activity2" />
+            android:text="@string/call_activity2" />
 
         <TextView
             android:id="@+id/txtReturnedValues"

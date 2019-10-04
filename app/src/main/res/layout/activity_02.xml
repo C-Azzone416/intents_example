@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:padding="6sp"
             android:onClick="onButtonClick"
-            android:text="CallBack Activity1" />
+            android:text="@string/callback_activity1" />
 
         <TextView
             android:id="@+id/spyBox"
